@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nasser Salim 🖐️
 
-[![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://sujeitoprogramador.com](https://www.linkedin.com/in/nasser-salim-04203b22a/))
+[![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nasser-salim-04203b22a/])
 
 ![Nasser GitHub stats](https://github-readme-stats.vercel.app/api?username=NasserSalim1&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasserSalim1&theme=dracula)](https://github.com/NasserSalim1/github-readme-stats)
