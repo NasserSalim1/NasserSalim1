@@ -1,4 +1,4 @@
-## Olá! Eu sou o Nasser Salim 🖐️
+## Olá! Eu sou o Nasser Salim 🖖
 
 [![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-salim-04203b22a/)
 
