@@ -16,4 +16,4 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Atualmente estou estudando Python, uma linguagem que peguei muito gosto, estarei atualizando meu repositório com novos projetos em Python em breve!
