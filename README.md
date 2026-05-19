@@ -73,4 +73,4 @@ Sistema para monitoramento de qualidade de dados, detecção de anomalias e gera
 
 ### 📫 Contato
 
-📎 LinkedIn: https://www.linkedin.com/in/nasser-salim-04203b22a/
+📎 LinkedIn: [https://www.linkedin.com/in/nasser-salim-04203b22a/](https://www.linkedin.com/in/nassersalim/)
