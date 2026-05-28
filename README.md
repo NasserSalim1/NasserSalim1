@@ -54,6 +54,7 @@ Data Engineering • Analytics Engineering • Data Quality • DataOps • IA a
 
 ✔️ Construção de pipelines de dados em arquitetura Medallion (Bronze, Silver, Gold)  
 ✔️ Validação e qualidade de dados (Data Quality)  
+✔️ Desenvolvimento de relatórios e indicadores em Power BI para apoio à tomada de decisão
 ✔️ Automação de processos e redução de esforço manual  
 ✔️ Integração de dados para análises financeiras e operacionais  
 
