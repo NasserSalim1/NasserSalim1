@@ -6,19 +6,14 @@
 
 ### 🚀 Sobre mim
 
-Engenheiro de Dados em formação com experiência prática em ambientes corporativos, atuando na construção e evolução de pipelines de dados em arquitetura Lakehouse.
+Analista de Dados com perfil híbrido entre BI, Engenharia de Dados e Analytics, com experiência prática em ambientes corporativos, atuando na construção de pipelines, modelagem de dados, automação de processos e desenvolvimento de soluções analíticas.
 
-🏥 Atualmente na Unimed, trabalhando com dados voltados ao faturamento assistencial, com foco em confiabilidade, automação e impacto financeiro.
+🏥 Atualmente atuo na Unimed Rio Preto, trabalhando com dados voltados ao faturamento assistencial, com foco em confiabilidade, automação, qualidade de dados e impacto financeiro.
+
+🌱 Experiência anterior no agronegócio, com atuação em projetos envolvendo Databricks, Snowflake, Power BI, Data Marts e pipelines de dados.
 
 🧠 Interesses:
-Data Engineering • Data Observability • DataOps • IA aplicada a dados
-
----
-
-### 📊 GitHub Stats
-
-![Nasser GitHub stats](https://github-readme-stats.vercel.app/api?username=NasserSalim1&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasserSalim1&layout=compact&theme=dracula)](https://github.com/NasserSalim1/github-readme-stats)
+Data Engineering • Analytics Engineering • Data Quality • DataOps • IA aplicada a dados • BI & Storytelling
 
 ---
 
@@ -64,13 +59,33 @@ Data Engineering • Data Observability • DataOps • IA aplicada a dados
 
 ---
 
+### 📌 Projetos em destaque
+
+SCAP — Sistema de Crédito e Anomalias Preditivas
+
+Projeto de TCC envolvendo Data Warehouse, pipeline de dados, PostgreSQL, Docker, Python e modelos de Machine Learning para análise de crédito e detecção de anomalias.
+
+Controle de Gastos — Flask + Supabase + Power BI
+
+Web app CRUD para controle financeiro com Flask, Supabase/PostgreSQL, API REST e integração com Power BI.
+
+ProjetoVagas — Visão Computacional com OpenCV
+
+Pipeline de visão computacional com Python e OpenCV para transformar vídeos em dados de ocupação de vagas em tempo real.
+
+---
+
 ### 🎯 Em desenvolvimento
 
-🧠 Data Observability Platform (Databricks + IA)  
-Sistema para monitoramento de qualidade de dados, detecção de anomalias e geração de insights automáticos.
+🧠 Data Observability e Qualidade de Dados
+Estudo/projeto em desenvolvimento para monitoramento de qualidade de dados, detecção de anomalias e geração de alertas em pipelines.
 
 ---
 
 ### 📫 Contato
 
 📎 LinkedIn: [https://www.linkedin.com/in/nasser-salim-04203b22a/](https://www.linkedin.com/in/nassersalim/)
+
+📎 E-Mail: nsalim.beserra@gmail.com
+
+📎 Telefone: (18) 99630-8973
