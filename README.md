@@ -1,19 +1,25 @@
 ## 👨‍💻 Olá! Eu sou o Nasser Salim 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-salim-04203b22a/)
+### Data Engineer | Python • SQL • PySpark • PostgreSQL • Databricks • Snowflake • Microsoft Fabric
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassersalim/)
 
 ---
 
 ### 🚀 Sobre mim
 
-Analista de Dados com perfil híbrido entre BI, Engenharia de Dados e Analytics, com experiência prática em ambientes corporativos, atuando na construção de pipelines, modelagem de dados, automação de processos e desenvolvimento de soluções analíticas.
+Profissional de Dados com experiência em Engenharia de Dados, Analytics e BI, atuando na construção de pipelines ETL/ELT, modelagem dimensional e disponibilização de dados para Analytics e tomada de decisão.
 
-🏥 Atualmente atuo na Unimed Rio Preto, trabalhando com dados voltados ao faturamento assistencial, com foco em confiabilidade, automação, qualidade de dados e impacto financeiro.
+Atualmente trabalho com desenvolvimento e otimização de pipelines de dados, qualidade de dados, modelagem analítica e automação de processos utilizando Python, SQL, PySpark e plataformas modernas como Databricks, Microsoft Fabric, Snowflake e PostgreSQL.
 
-🌱 Experiência anterior no agronegócio, com atuação em projetos envolvendo Databricks, Snowflake, Power BI, Data Marts e pipelines de dados.
+Tenho experiência prática com Data Warehouses, Data Lakes, arquiteturas Medallion (Bronze, Silver e Gold), Data Marts e governança de dados, sempre com foco em escalabilidade, confiabilidade e geração de valor para o negócio.
+
+Além da experiência profissional, desenvolvo projetos próprios de Engenharia de Dados, incluindo um Data Warehouse voltado para Machine Learning e análise de risco de crédito, aplicando conceitos de arquitetura de dados, MLOps e Data Quality.
+
+🌱 Atualmente atuo na COFCO International, trabalhando com integração, modelagem e disponibilização de dados para análises operacionais e estratégicas.
 
 🧠 Interesses:
-Data Engineering • Analytics Engineering • Data Quality • DataOps • IA aplicada a dados • BI & Storytelling
+Data Engineering • Data Platforms • DataOps • Data Quality • Cloud Data Engineering • Analytics Engineering • Machine Learning Infrastructure
 
 ---
 
@@ -25,6 +31,7 @@ Data Engineering • Analytics Engineering • Data Quality • DataOps • IA a
   <img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img align="center" alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=data&logoColor=white" />
   <img align="center" alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div><br/>
 
 #### 🧠 Linguagens e Processamento
@@ -50,29 +57,62 @@ Data Engineering • Analytics Engineering • Data Quality • DataOps • IA a
 
 ---
 
-### 💡 O que eu faço hoje
+### 📊 Destaques
 
-✔️ Construção de pipelines de dados em arquitetura Medallion (Bronze, Silver, Gold)  
-✔️ Validação e qualidade de dados (Data Quality)   
-✔️ Desenvolvimento de relatórios e indicadores em Power BI para apoio à tomada de decisão  
-✔️ Automação de processos e redução de esforço manual  
-✔️ Integração de dados para análises financeiras e operacionais  
+🚀 +3 anos atuando com dados
+
+🏢 Experiência em multinacionais e setor de saúde
+
+⚙️ Experiência prática com Databricks, Snowflake e Microsoft Fabric
+
+🗄️ Desenvolvimento de Data Warehouses, Data Marts e pipelines ETL/ELT
+
+📈 Projetos de Analytics, BI e Engenharia de Dados com foco em geração de valor para o negócio
 
 ---
 
-### 📌 Projetos em destaque
+### 💡 O que eu faço hoje
 
-SCAP — Sistema de Crédito e Anomalias Preditivas
+✔️ Desenvolvimento de pipelines ETL/ELT com Python, SQL e PySpark
 
-Projeto de TCC envolvendo Data Warehouse, pipeline de dados, PostgreSQL, Docker, Python e modelos de Machine Learning para análise de crédito e detecção de anomalias.
+✔️ Modelagem dimensional (Star Schema e Data Marts)
 
-Controle de Gastos — Flask + Supabase + Power BI
+✔️ Construção de Data Warehouses e arquiteturas Medallion
 
-Web app CRUD para controle financeiro com Flask, Supabase/PostgreSQL, API REST e integração com Power BI.
+✔️ Implementação de regras de qualidade e validação de dados
 
-ProjetoVagas — Visão Computacional com OpenCV
+✔️ Disponibilização de dados para Analytics, BI e Machine Learning
 
-Pipeline de visão computacional com Python e OpenCV para transformar vídeos em dados de ocupação de vagas em tempo real.
+✔️ Automação de processos e integração entre sistemas corporativos
+
+---
+
+### 🏦 SCAP — Sistema de Crédito e Anomalias Preditivas
+
+Projeto acadêmico e de pesquisa focado na construção de uma plataforma de dados para análise de risco de crédito.
+
+**Stack:** PostgreSQL • Python • Docker • AWS • Machine Learning
+
+**Principais componentes:**
+- Arquitetura Medallion (Bronze, Silver e Gold)
+- Data Warehouse com modelagem dimensional
+- Pipelines ETL/ELT
+- Data Quality
+- Treinamento de modelos preditivos
+- Dashboards analíticos
+
+---
+
+### 📌 Outros Projetos
+
+#### 💰 Controle de Gastos
+Aplicação web para controle financeiro utilizando Flask, PostgreSQL/Supabase e Power BI.
+
+#### 🚗 ProjetoVagas
+Pipeline de visão computacional com OpenCV para extração de métricas de ocupação de vagas de estacionamento.
+
+#### 🏦 SCAP
+Plataforma de dados para análise de risco de crédito e detecção de anomalias.
 
 ---
 
@@ -90,3 +130,5 @@ Estudo/projeto em desenvolvimento para monitoramento de qualidade de dados, dete
 📎 E-Mail: nsalim.beserra@gmail.com
 
 📎 Telefone: (18) 99630-8973
+
+📎 GitHub: github.com/NasserSalim1
