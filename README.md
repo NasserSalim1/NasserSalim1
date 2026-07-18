@@ -16,7 +16,7 @@ Tenho experiência prática com Data Warehouses, Data Lakes, arquiteturas Medall
 
 Além da experiência profissional, desenvolvo projetos próprios de Engenharia de Dados, incluindo um Data Warehouse voltado para Machine Learning e análise de risco de crédito, aplicando conceitos de arquitetura de dados, MLOps e Data Quality.
 
-🌱 Atualmente atuo na COFCO International, trabalhando com integração, modelagem e disponibilização de dados para análises operacionais e estratégicas.
+🌱 Atualmente atuo como Engenheiro de Dados Jr. na COFCO International, trabalhando com integração, modelagem e disponibilização de dados para análises operacionais e estratégicas.
 
 🧠 Interesses:
 Data Engineering • Data Platforms • DataOps • Data Quality • Cloud Data Engineering • Analytics Engineering • Machine Learning Infrastructure
@@ -39,12 +39,14 @@ Data Engineering • Data Platforms • DataOps • Data Quality • Cloud Data 
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
 #### 🗄️ Data & Analytics
 <div style="display: inline_block">
   <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div><br/>
 
@@ -66,6 +68,8 @@ Data Engineering • Data Platforms • DataOps • Data Quality • Cloud Data 
 ⚙️ Experiência prática com Databricks, Snowflake e Microsoft Fabric
 
 🗄️ Desenvolvimento de Data Warehouses, Data Marts e pipelines ETL/ELT
+
+⚡ Otimização de pipeline ETL (MongoDB → Oracle) com ganho de 6,3x em performance via vetorização (pandas/geopandas), eliminando picos de memória de até 4,5 GB
 
 📈 Projetos de Analytics, BI e Engenharia de Dados com foco em geração de valor para o negócio
 
